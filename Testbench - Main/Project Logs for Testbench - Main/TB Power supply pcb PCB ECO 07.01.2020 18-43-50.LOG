@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P32 NewDesignator=P33
+Change Component Designator: OldDesignator=P33 NewDesignator=P34
+Change Component Designator: OldDesignator=P34 NewDesignator=P35
+Change Component Designator: OldDesignator=P35 NewDesignator=P36
+Change Component Designator: OldDesignator=P36 NewDesignator=P37
+Added Component: Designator=P32(PIN_HEADER_M_1x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vout_5V Pin=P32-1
+Added Pin To Net: NetName=GND Pin=P32-2
+Added Class: Name=TB Power supply pcb
+Added Room: Name=TB Power supply pcb
