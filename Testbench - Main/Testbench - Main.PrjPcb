@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HFQYUSJD
 
 [Document7]
-DocumentPath=..\..\Ny mappe\Altium_lib_2020\FF_component_lib.SchLib
+DocumentPath=..\..\Altium_lib_2020\FF_component_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JCCTPVIS
 
 [Document8]
-DocumentPath=..\..\Ny mappe\Altium_lib_2020\FF_pcb_lib.PcbLib
+DocumentPath=..\..\Altium_lib_2020\FF_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
