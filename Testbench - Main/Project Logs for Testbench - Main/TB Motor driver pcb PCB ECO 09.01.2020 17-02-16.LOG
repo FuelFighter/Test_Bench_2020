@@ -1,0 +1,29 @@
+Change Physical Footprint: Designator=C1 Old Footprint=C_EL_SMT_Ø10 New Footprint=C_EL_SMT_Ø10
+Change Physical Footprint: Designator=C2 Old Footprint=C_EL_SMT_Ø18 New Footprint=C_EL_SMT_Ø18
+Change Physical Footprint: Designator=C3 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C4 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C5 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C6 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C7 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C8 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C9 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C10 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C11 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C12 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C13 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C14 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C15 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C16 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C17 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C18 Old Footprint=C_EL_SMT_Ø6.3 New Footprint=C_EL_SMT_Ø6.3
+Change Physical Footprint: Designator=C19 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C20 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=P1 Old Footprint=Terminal 6A/250V New Footprint=Terminal 6A/250V
+Change Physical Footprint: Designator=P2 Old Footprint=Terminal 25A/300V New Footprint=Terminal 25A/300V
+Change Physical Footprint: Designator=P3 Old Footprint=Terminal 15A/250V New Footprint=Terminal 15A/250V
+Change Physical Footprint: Designator=P4 Old Footprint=PIN_HEADER_M_1X8 New Footprint=PIN_HEADER_M_1X8
+Change Physical Footprint: Designator=P5 Old Footprint=Terminal 15A/250V New Footprint=Terminal 15A/250V
+Change Physical Footprint: Designator=R1 Old Footprint=R_SMD_0805_pcb New Footprint=R_SMD_0805_pcb
+Change Physical Footprint: Designator=R2 Old Footprint=R_SMD_0805_pcb New Footprint=R_SMD_0805_pcb
+Change Physical Footprint: Designator=R3 Old Footprint=R_SMD_0805_pcb New Footprint=R_SMD_0805_pcb
+Change Physical Footprint: Designator=U1 Old Footprint=DRV8432DKDR-SOP36 New Footprint=DRV8432DKDR-SOP36
