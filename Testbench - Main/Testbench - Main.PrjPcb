@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SSRTSODT
 
 [Document2]
+DocumentPath=TB Teensy pcb.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNQHBGOY
+
+[Document3]
 DocumentPath=TB Power supply pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,23 +87,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBANEKLD
-
-[Document3]
-DocumentPath=TB Motor driver pcb.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HJROGCEN
 
 [Document4]
 DocumentPath=TB Teensy pcb.PcbDoc
@@ -141,6 +141,10 @@ DocumentUniqueId=FYUKLTYG
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Motor driver pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Power supply pcb.html
 DItemRevisionGUID=
 
 [Configuration1]
