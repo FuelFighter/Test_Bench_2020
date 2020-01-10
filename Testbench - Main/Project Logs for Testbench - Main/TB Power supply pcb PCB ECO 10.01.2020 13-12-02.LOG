@@ -1,0 +1,22 @@
+Change Physical Footprint: Designator=C31 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C32 Old Footprint=C_EL_SMT_Ø10 New Footprint=C_EL_SMT_Ø10
+Change Physical Footprint: Designator=C33 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C34 Old Footprint=C_EL_SMT_Ø10 New Footprint=C_EL_SMT_Ø10
+Change Physical Footprint: Designator=C35 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C36 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C37 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=C38 Old Footprint=C_SMD_0805_pcb New Footprint=C_SMD_0805_pcb
+Change Physical Footprint: Designator=L31 Old Footprint=L_22uH_2212 New Footprint=L_22uH_2212
+Change Physical Footprint: Designator=L32 Old Footprint=L_30.5x25.4_220uH New Footprint=L_30.5x25.4_220uH
+Change Physical Footprint: Designator=P31 Old Footprint=Terminal 6A/250V New Footprint=Terminal 6A/250V
+Change Physical Footprint: Designator=P32 Old Footprint=PIN_HEADER_M_1x2 New Footprint=PIN_HEADER_M_1x2
+Change Physical Footprint: Designator=P33 Old Footprint=Terminal 25A/300V New Footprint=Terminal 25A/300V
+Change Physical Footprint: Designator=P34 Old Footprint=PIN_HEADER_M_1x2 New Footprint=PIN_HEADER_M_1x2
+Change Physical Footprint: Designator=P35 Old Footprint=Terminal 25A/300V New Footprint=Terminal 25A/300V
+Change Physical Footprint: Designator=P36 Old Footprint=Terminal 25A/300V New Footprint=Terminal 25A/300V
+Change Physical Footprint: Designator=P37 Old Footprint=Terminal 6A/250V New Footprint=Terminal 6A/250V
+Change Physical Footprint: Designator=R31 Old Footprint=R_SMD_0805_pcb New Footprint=R_SMD_0805_pcb
+Change Physical Footprint: Designator=R32 Old Footprint=R_SMD_0805_pcb New Footprint=R_SMD_0805_pcb
+Change Physical Footprint: Designator=R33 Old Footprint=R_SMD_0805_pcb New Footprint=R_SMD_0805_pcb
+Change Physical Footprint: Designator=U31 Old Footprint=LM2576HVSX-12/NOPB New Footprint=LM2576HVSX-12/NOPB
+Change Physical Footprint: Designator=U32 Old Footprint=MCP16311/2_MSOP New Footprint=MCP16311/2_MSOP

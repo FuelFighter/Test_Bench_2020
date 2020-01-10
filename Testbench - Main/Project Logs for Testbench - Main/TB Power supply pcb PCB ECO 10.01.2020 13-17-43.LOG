@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=Vout_5V Pin=P32-1
+Removed Pin From Net: NetName=Vout_48V Pin=P33-1
+Removed Pin From Net: NetName=GND Pin=P35-1
+Removed Pin From Net: NetName=Vout_48V Pin=P35-2
+Removed Pin From Net: NetName=VFB Pin=R32-1
+Removed Pin From Net: NetName=Vout_5V Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=U31-
+Change Component Footprint: Designator=P32 Old Footprint=PIN_HEADER_M_1x2 New Footprint=XT-60
+Change Component Footprint: Designator=P34 Old Footprint=PIN_HEADER_M_1x2 New Footprint=XT-60
+Change Component Footprint: Designator=P31 Old Footprint=Terminal 6A/250V New Footprint=XT-60
+Change Component Footprint: Designator=P37 Old Footprint=Terminal 6A/250V New Footprint=XT-60
+Change Component Footprint: Designator=P33 Old Footprint=Terminal 25A/300V New Footprint=XT-60
+Change Component Footprint: Designator=P35 Old Footprint=Terminal 25A/300V New Footprint=XT-60
+Change Component Footprint: Designator=P36 Old Footprint=Terminal 25A/300V New Footprint=XT-60
+Change Component Comment : Designator=P32 Old Comment=M_1x2 New Comment=XT-60
+Change Component Comment : Designator=P34 Old Comment=M_1x2 New Comment=XT-60
+Change Component Comment : Designator=P31 Old Comment=Terminal 6A/250V New Comment=XT-60
+Change Component Comment : Designator=P37 Old Comment=Terminal 6A/250V New Comment=XT-60
+Change Component Comment : Designator=P33 Old Comment=Terminal 25A/300V New Comment=XT-60
+Change Component Comment : Designator=P35 Old Comment=Terminal 25A/300V New Comment=XT-60
+Change Component Comment : Designator=P36 Old Comment=Terminal 25A/300V New Comment=XT-60
+Change component parameters: Designator = "C32"; Footprint = "C_EL_SMT_Ø10"; UniqueID = "\UQENZAFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34"; Footprint = "C_EL_SMT_Ø10"; UniqueID = "\NCRTKSPU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D31"; Footprint = "D_SCHOTTKY_TH_DO-201AD"; UniqueID = "\VGEYHXLE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Discrete Semiconductor Products"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1N5822"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L31"; Footprint = "L_22uH_2212"; UniqueID = "\GTPIMCTO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L32"; Footprint = "L_30.5x25.4_220uH"; UniqueID = "\GXZHNVUB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P31"; Footprint = "XT-60"; UniqueID = "\GGEQIWNL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P33"; Footprint = "XT-60"; UniqueID = "\JTSZPDBB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P35"; Footprint = "XT-60"; UniqueID = "\OFOKFSLF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P36"; Footprint = "XT-60"; UniqueID = "\NKMELXPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P37"; Footprint = "XT-60"; UniqueID = "\INPKRHBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vout_48V Pin=P32-1
+Added Pin To Net: NetName=Vout_5V Pin=P33-1
+Added Pin To Net: NetName=Vout_48V Pin=P35-1
+Added Pin To Net: NetName=GND Pin=P35-2
+Added Pin To Net: NetName=Vout_5V Pin=R32-1
+Added Pin To Net: NetName=VFB Pin=R32-2
+Added Room: Name=TB Power supply pcb

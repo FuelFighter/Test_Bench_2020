@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=+12V Pin=P1-2
+Removed Pin From Net: NetName=+48V Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=OUT_A Pin=P3-1
+Removed Pin From Net: NetName=OUT_B Pin=P3-2
+Removed Pin From Net: NetName=OUT_C Pin=P5-1
+Removed Pin From Net: NetName=OUT_D Pin=P5-2
+Change Component Footprint: Designator=P1 Old Footprint=Terminal 6A/250V New Footprint=XT-60
+Change Component Footprint: Designator=P3 Old Footprint=Terminal 15A/250V New Footprint=XT-60
+Change Component Footprint: Designator=P5 Old Footprint=Terminal 15A/250V New Footprint=XT-60
+Change Component Footprint: Designator=P2 Old Footprint=Terminal 25A/300V New Footprint=XT-60
+Change Component Comment : Designator=P1 Old Comment=Terminal 6A/250V New Comment=XT-60
+Change Component Comment : Designator=P3 Old Comment=Terminal 15A/250V New Comment=XT-60
+Change Component Comment : Designator=P5 Old Comment=Terminal 15A/250V New Comment=XT-60
+Change Component Comment : Designator=P2 Old Comment=Terminal 25A/300V New Comment=XT-60
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change component parameters: Designator = "P1"; Footprint = "XT-60"; UniqueID = "\UGXPYNNM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "XT-60"; UniqueID = "\LRURXQGN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "XT-60"; UniqueID = "\EAPRVWSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4"; Footprint = "XT-60"; UniqueID = "\XZKYVLOD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HS1(HS_TB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1004/ats1042c1r0ds-1004563.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1004/ats1042c1r0ds-1004563.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/26934/getdatasheetpartid-779707-26934888.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/26934/getdatasheetpartid-779707-26934888.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16381/ats-1042-c1-r0-16381194.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16381/ats-1042-c1-r0-16381194.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.59inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "41mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Advanced Thermal Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ATS-1042-C1-R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Push Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "BGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=14,16000, 10=13,36900, 25=12,58280, 50=11,79640, 100=11,00990, 250=10,22348, 500=10,02686, 1000=9,83025 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins,Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "342"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATS1410-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "2.5°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.772inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=+48V Pin=P2-2
+Added Pin To Net: NetName=OUT_B Pin=P3-1
+Added Pin To Net: NetName=OUT_A Pin=P3-2
+Added Pin To Net: NetName=OUT_D Pin=P4-1
+Added Pin To Net: NetName=OUT_C Pin=P4-2
+Added Class: Name=TB Motor driver pcb
+Added Room: Name=TB Motor driver pcb
