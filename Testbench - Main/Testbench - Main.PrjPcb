@@ -72,6 +72,40 @@ GenerateClassCluster=0
 DocumentUniqueId=PBANEKLD
 
 [Document3]
+DocumentPath=TB Power supply pcb.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YOKUHUSL
+
+[Document4]
+DocumentPath=TB Motor driver pcb.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HJROGCEN
+
+[Document5]
 DocumentPath=TB Teensy pcb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=61
@@ -88,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNQHBGOY
 
-[Document4]
+[Document6]
 DocumentPath=TB Teensy pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQYUSJD
 
-[Document5]
+[Document7]
 DocumentPath=..\..\Altium_lib_2020\FF_component_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCCTPVIS
 
-[Document6]
+[Document8]
 DocumentPath=..\..\Altium_lib_2020\FF_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,6 +179,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Power supply pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Teensy pcb.html
 DItemRevisionGUID=
 
 [Configuration1]

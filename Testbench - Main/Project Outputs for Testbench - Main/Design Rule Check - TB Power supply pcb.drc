@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\alro2\OneDrive\Documents\Altium\Ny mappe\Test_Bench_2020\Testbench - Main\TB Power supply pcb.PcbDoc
-Date     : 10.01.2020
-Time     : 14:35:48
+Date     : 11.01.2020
+Time     : 17:00:27
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -41,6 +41,11 @@ Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad C32-2(31.85mm,49.125mm) on Top Layer And Track (29.875mm,46.7mm)(33.625mm,46.7mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.248mm < 0.254mm) Between Pad C34-2(49.05mm,23.875mm) on Top Layer And Track (47.275mm,26.3mm)(51.025mm,26.3mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.248mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.014mm < 0.254mm) Between Pad C38-1(69.895mm,26.384mm) on Top Layer And Text "R31" (66.05mm,27.05mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.014mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D31-(34.7mm,35.5mm) on Top Layer And Track (33.7mm,34.1mm)(33.7mm,36.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D31-(34.7mm,35.5mm) on Top Layer And Track (35.7mm,34.1mm)(35.7mm,36.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Pad D31-1(31.5mm,35.5mm) on Top Layer And Track (29.7mm,34.1mm)(29.7mm,36.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Pad D31-1(31.5mm,35.5mm) on Top Layer And Track (29.7mm,34.1mm)(35.7mm,34.1mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.25mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Pad D31-1(31.5mm,35.5mm) on Top Layer And Track (29.7mm,36.9mm)(35.7mm,36.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.25mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.088mm < 0.254mm) Between Pad U32-1(75.528mm,30.711mm) on Top Layer And Track (76.468mm,28.228mm)(76.468mm,31.047mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.088mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.115mm < 0.254mm) Between Pad U32-1(75.528mm,30.711mm) on Top Layer And Track (76.468mm,31.047mm)(76.468mm,31.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.115mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.254mm < 0.254mm) Between Pad U32-1(75.528mm,30.711mm) on Top Layer And Track (76.468mm,31.25mm)(78.957mm,31.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.254mm]
@@ -52,7 +57,7 @@ Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.119mm < 0.254mm) Between Pad U32-6(79.928mm,29.411mm) on Top Layer And Track (78.957mm,28.228mm)(78.957mm,31.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.119mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.119mm < 0.254mm) Between Pad U32-7(79.928mm,30.061mm) on Top Layer And Track (78.957mm,28.228mm)(78.957mm,31.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.119mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.119mm < 0.254mm) Between Pad U32-8(79.928mm,30.711mm) on Top Layer And Track (78.957mm,28.228mm)(78.957mm,31.25mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.119mm]
-Rule Violations :14
+Rule Violations :19
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
@@ -67,6 +72,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 21
+Violations Detected : 26
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
