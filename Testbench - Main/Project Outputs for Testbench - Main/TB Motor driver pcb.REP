@@ -2,8 +2,43 @@
 FileName = TB Motor driver pcb.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : TB Motor driver pcb_Copper_Signal_Top.gbr
+Generating : Bottom Solder
+      File : TB Motor driver pcb.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : TB Motor driver pcb.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TB Motor driver pcb.GTS
+
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -11,18 +46,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
     D22
     D23
     D24
@@ -34,105 +57,30 @@ Used DCodes :
     D30
     D31
     D32
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : TB Motor driver pcb_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : TB Motor driver pcb_Pads_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : TB Motor driver pcb_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : TB Motor driver pcb_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : TB Motor driver pcb_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D33
     D34
     D35
     D36
     D37
-    D38
-    D39
-    D40
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : TB Motor driver pcb.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
 *************************************************************
 
 *************************************************************
 Generating : Bottom Paste
-      File : TB Motor driver pcb_Paste_Bot.gbr
+      File : TB Motor driver pcb.GBP
 
     Adding Layer      : Bottom Paste
 
@@ -145,22 +93,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : TB Motor driver pcb_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
-      File : TB Motor driver pcb_Paste_Top.gbr
+      File : TB Motor driver pcb.GTP
 
     Adding Layer      : Top Paste
 
@@ -170,21 +104,45 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
     D14
     D15
     D16
     D17
+    D18
+    D19
+    D20
+    D21
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : TB Motor driver pcb_Soldermask_Top.gbr
+Generating : Top Overlay
+      File : TB Motor driver pcb.GTO
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : TB Motor driver pcb.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : TB Motor driver pcb.GPT
 
     Adding Layer      : Top Layer
 
@@ -192,14 +150,103 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D33
-    D34
-    D35
-    D36
-    D37
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : TB Motor driver pcb.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : TB Motor driver pcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TB Motor driver pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : TB Motor driver pcb.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : TB Motor driver pcb.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : TB Motor driver pcb.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TB Motor driver pcb.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D38
     D39
-    D40
     D45
     D46
     D47
@@ -211,125 +258,37 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : TB Motor driver pcb_Keep-out.gbr
+Generating : Top Layer
+      File : TB Motor driver pcb.GTL
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Layer
 
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : TB Motor driver pcb_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D38
+    D39
+    D40
     D41
     D42
     D43
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : TB Motor driver pcb_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : TB Motor driver pcb_Mechanical_3.gbr
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D43
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : TB Motor driver pcb_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D53
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : TB Motor driver pcb_Profile.gbr
-
-
-Used DCodes :
-    D55
-*************************************************************
-
-*************************************************************
-Generating : Non-plated through-hole drill file
-      File : TB Motor driver pcb_NPTH_Drill.gbr
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Plated through-hole drill file
-      File : TB Motor driver pcb_PTH_Drill.gbr
-
-
-Used DCodes :
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : TB Motor driver pcb_Drawing_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : TB Motor driver pcb_Drillmap_1.gbr
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D70
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
