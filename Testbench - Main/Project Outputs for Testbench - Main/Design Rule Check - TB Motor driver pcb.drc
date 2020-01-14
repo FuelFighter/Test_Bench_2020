@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\alro2\OneDrive\Documents\Altium\Ny mappe\Test_Bench_2020\Testbench - Main\TB Motor driver pcb.PcbDoc
-Date     : 11.01.2020
-Time     : 17:03:25
+PCB File : C:\Users\Magnus\Documents\Fuel_Fighter_Test_Bench_2020\Testbench - Main\TB Motor driver pcb.PcbDoc
+Date     : 14.01.2020
+Time     : 22.14.24
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -87,4 +87,4 @@ Rule Violations :0
 
 Violations Detected : 36
 Waived Violations : 0
-Time Elapsed        : 00:10:37
+Time Elapsed        : 00:00:00
