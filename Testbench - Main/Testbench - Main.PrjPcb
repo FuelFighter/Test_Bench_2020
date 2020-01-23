@@ -139,328 +139,114 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFQYUSJD
 
+[Document7]
+DocumentPath=..\..\Altium_lib_2020\FF_component_lib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JCCTPVIS
+
+[Document8]
+DocumentPath=..\..\Altium_lib_2020\FF_pcb_lib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Motor driver pcb.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Power supply pcb.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Testbench - Main\Design Rule Check - TB Teensy pcb.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Testbench - Main\TB Motor driver pcb_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for Testbench - Main\TB Power supply pcb_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument56]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Mechanical_3.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Project Outputs for Testbench - Main\TB Teensy pcb_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
@@ -582,7 +368,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HPFuelFighter (HP ENVY 4520 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -676,7 +462,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HPFuelFighter (HP ENVY 4520 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
