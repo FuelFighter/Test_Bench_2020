@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P33 Old Footprint=XT-60 New Footprint=PIN_HEADER_M_1x2
+Change Component Footprint: Designator=P34 Old Footprint=XT-60 New Footprint=PIN_HEADER_M_1x2
+Change Component Comment : Designator=P33 Old Comment=XT-60 New Comment=M_1x2
+Change Component Comment : Designator=P34 Old Comment=XT-60 New Comment=M_1x2
