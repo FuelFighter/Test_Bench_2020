@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=L31 Old Footprint=L_22uH_2212 New Footprint=L_10x10_22uH
+Change Component Footprint: Designator=L32 Old Footprint=L_30.5x25.4_220uH New Footprint=L_12x12_220uH
+Change Component Comment : Designator=L32 Old Comment=L_3.5A_30.5x25.4-220uH New Comment=L_1.8A12x12-220uH
+Change Component Comment : Designator=L31 Old Comment=L_15A_22.5*22-22uH New Comment=L_1.8A10x10-22uH
+Added Member To Class: ClassName=TB Power supply pcb Member=Component L31 L_1.8A10x10-22uH
+Added Member To Class: ClassName=TB Power supply pcb Member=Component L32 L_1.8A12x12-220uH
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P32 M_1x2
