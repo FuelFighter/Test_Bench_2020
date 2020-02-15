@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\alro2\OneDrive\Documents\Altium\Ny mappe\Test_Bench_2020\Testbench - Main\TB Motor driver pcb.PcbDoc
-Date     : 23.01.2020
-Time     : 17:17:52
+Date     : 15.02.2020
+Time     : 16:38:38
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
@@ -76,7 +76,7 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room TB Motor driver pcb (Bounding Region = (90.1mm, 42.8mm, 203mm, 132mm) (InComponentClass('TB Motor driver pcb'))
+Processing Rule : Room TB Motor driver pcb (Bounding Region = (90.1mm, 42.8mm, 203mm, 136mm) (InComponentClass('TB Motor driver pcb'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
