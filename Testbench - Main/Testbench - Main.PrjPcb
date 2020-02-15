@@ -72,40 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HJROGCEN
 
 [Document3]
-DocumentPath=TB Teensy pcb.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=61
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNQHBGOY
-
-[Document4]
-DocumentPath=TB Teensy pcb.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HFQYUSJD
-
-[Document5]
 DocumentPath=..\..\Altium_lib_2020\FF_component_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCCTPVIS
 
-[Document6]
+[Document4]
 DocumentPath=..\..\Altium_lib_2020\FF_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
