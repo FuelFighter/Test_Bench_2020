@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=PWM_D Pin=P5-1
+Removed Pin From Net: NetName=RESET_CD Pin=P5-2
+Removed Pin From Net: NetName=PWM_C Pin=P5-3
+Removed Pin From Net: NetName=PWM_B Pin=P5-4
+Removed Pin From Net: NetName=RESET_AB Pin=P5-5
+Removed Pin From Net: NetName=PWM_A Pin=P5-6
+Removed Pin From Net: NetName=FAULT Pin=P5-7
+Removed Pin From Net: NetName=OTW Pin=P5-8
+Added Component: Designator=HS1(HS_TB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1004/ats1042c1r0ds-1004563.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1004/ats1042c1r0ds-1004563.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/26934/getdatasheetpartid-779707-26934888.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/26934/getdatasheetpartid-779707-26934888.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16381/ats-1042-c1-r0-16381194.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16381/ats-1042-c1-r0-16381194.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.59inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "41mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Advanced Thermal Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ATS-1042-C1-R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Push Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "BGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=14,16000, 10=13,36900, 25=12,58280, 50=11,79640, 100=11,00990, 250=10,22348, 500=10,02686, 1000=9,83025 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins,Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "342"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATS1410-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "2.5°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.772inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OTW Pin=P5-1
+Added Pin To Net: NetName=FAULT Pin=P5-2
+Added Pin To Net: NetName=PWM_A Pin=P5-3
+Added Pin To Net: NetName=RESET_AB Pin=P5-4
+Added Pin To Net: NetName=PWM_B Pin=P5-5
+Added Pin To Net: NetName=PWM_C Pin=P5-6
+Added Pin To Net: NetName=RESET_CD Pin=P5-7
+Added Pin To Net: NetName=PWM_D Pin=P5-8
+Added Member To Class: ClassName=TB Motor driver pcb Member=Component P4 XT-60
