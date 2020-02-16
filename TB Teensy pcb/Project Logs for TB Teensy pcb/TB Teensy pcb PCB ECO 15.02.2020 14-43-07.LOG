@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=+5V Pin=P61-1
+Removed Pin From Net: NetName=GND Pin=P61-2
+Removed Pin From Net: NetName=+3.3V_2 Pin=P65-3
+Removed Pin From Net: NetName=+3.3V_2 Pin=P66-3
+Removed Pin From Net: NetName=GND Pin=P71-2
+Removed Pin From Net: NetName=A~_2 Pin=P71-3
+Removed Pin From Net: NetName=A_2 Pin=P71-8
+Removed Pin From Net: NetName=+5V Pin=P71-10
+Removed Pin From Net: NetName=GND Pin=P72-2
+Removed Pin From Net: NetName=A~_1 Pin=P72-3
+Removed Pin From Net: NetName=A_1 Pin=P72-8
+Removed Pin From Net: NetName=+5V Pin=P72-10
+Change Component Designator: OldDesignator=C61 NewDesignator=C1
+Change Component Designator: OldDesignator=C62 NewDesignator=C2
+Change Component Designator: OldDesignator=C63 NewDesignator=C3
+Change Component Designator: OldDesignator=P61 NewDesignator=P1
+Change Component Designator: OldDesignator=P62 NewDesignator=P2
+Change Component Designator: OldDesignator=P63 NewDesignator=P3
+Change Component Designator: OldDesignator=P64 NewDesignator=P4
+Change Component Designator: OldDesignator=P65 NewDesignator=P5
+Change Component Designator: OldDesignator=P66 NewDesignator=P6
+Change Component Designator: OldDesignator=P67 NewDesignator=P7
+Change Component Designator: OldDesignator=P68 NewDesignator=P8
+Change Component Designator: OldDesignator=P69 NewDesignator=P9
+Change Component Designator: OldDesignator=P70 NewDesignator=P10
+Change Component Designator: OldDesignator=P71 NewDesignator=P11
+Change Component Designator: OldDesignator=P72 NewDesignator=P12
+Change Component Designator: OldDesignator=R61 NewDesignator=R1
+Change Component Designator: OldDesignator=R62 NewDesignator=R2
+Change Component Designator: OldDesignator=R63 NewDesignator=R3
+Change Component Designator: OldDesignator=U61 NewDesignator=U1
+Change Component Designator: OldDesignator=U62 NewDesignator=U2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=P1-2
+Added Pin To Net: NetName=+3.3V_1 Pin=P5-3
+Added Pin To Net: NetName=+3.3V_1 Pin=P6-3
+Added Pin To Net: NetName=+5V Pin=P11-1
+Added Pin To Net: NetName=A_2 Pin=P11-3
+Added Pin To Net: NetName=A~_2 Pin=P11-8
+Added Pin To Net: NetName=GND Pin=P11-9
+Added Pin To Net: NetName=+5V Pin=P12-1
+Added Pin To Net: NetName=A_1 Pin=P12-3
+Added Pin To Net: NetName=A~_1 Pin=P12-8
+Added Pin To Net: NetName=GND Pin=P12-9
+Added Pin To Net: NetName=+3.3V_1 Pin=U1-+3V3
+Added Pin To Net: NetName=+3.3V_1 Pin=U1-+3V3
+Added Member To Class: ClassName=TB Teensy pcb Member=Component P1 M_1x2

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=+5V Pin=P1-2
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=+3.3V_1 Pin=U1-+3V3
+Added Pin To Net: NetName=+3.3V_1 Pin=U1-+3V3
+Added Member To Class: ClassName=TB Teensy pcb Member=Component P6 M_1x2
+Added Member To Class: ClassName=TB Teensy pcb Member=Component P7 M_1x10
+Added Member To Class: ClassName=TB Teensy pcb Member=Component P11 M_2x5
+Added Member To Class: ClassName=TB Teensy pcb Member=Component R3 SMD

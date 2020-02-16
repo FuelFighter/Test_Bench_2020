@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=D31-1
+Removed Pin From Net: NetName=GND Pin=P31-2
+Removed Pin From Net: NetName=GND Pin=P32-2
+Removed Pin From Net: NetName=GND Pin=P33-2
+Removed Pin From Net: NetName=GND Pin=P34-2
+Removed Pin From Net: NetName=GND Pin=P35-2
+Removed Pin From Net: NetName=GND Pin=P36-2
+Removed Pin From Net: NetName=GND Pin=P37-2
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=U31-3
+Removed Pin From Net: NetName=GND Pin=U31-5
+Removed Pin From Net: NetName=GND Pin=U31-6
+Removed Pin From Net: NetName=GND Pin=U31-
+Removed Pin From Net: NetName=GND Pin=U32-5
+Removed Pin From Net: NetName=GND Pin=U32-8
+Removed Member From Class: ClassName=TB Power supply pcb Member=C31
+Removed Member From Class: ClassName=TB Power supply pcb Member=C32
+Removed Member From Class: ClassName=TB Power supply pcb Member=C33
+Removed Member From Class: ClassName=TB Power supply pcb Member=C34
+Removed Member From Class: ClassName=TB Power supply pcb Member=C35
+Removed Member From Class: ClassName=TB Power supply pcb Member=C36
+Removed Member From Class: ClassName=TB Power supply pcb Member=C37
+Removed Member From Class: ClassName=TB Power supply pcb Member=C38
+Removed Member From Class: ClassName=TB Power supply pcb Member=L31
+Removed Member From Class: ClassName=TB Power supply pcb Member=L32
+Removed Member From Class: ClassName=TB Power supply pcb Member=P31
+Removed Member From Class: ClassName=TB Power supply pcb Member=P32
+Removed Member From Class: ClassName=TB Power supply pcb Member=P33
+Removed Member From Class: ClassName=TB Power supply pcb Member=P34
+Removed Member From Class: ClassName=TB Power supply pcb Member=P35
+Removed Member From Class: ClassName=TB Power supply pcb Member=P36
+Removed Member From Class: ClassName=TB Power supply pcb Member=P37
+Removed Member From Class: ClassName=TB Power supply pcb Member=R31
+Removed Member From Class: ClassName=TB Power supply pcb Member=R32
+Removed Member From Class: ClassName=TB Power supply pcb Member=R33
+Removed Member From Class: ClassName=TB Power supply pcb Member=U31
+Removed Member From Class: ClassName=TB Power supply pcb Member=U32
+Added Component: Designator=C1(C_smd_3225)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 63V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C_smd_3225)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 63V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 10V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C_SMD_0805_pcb)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D_ZENER_12V_smd)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Zener 13V"; VariantName = "[No Variations]"
+Added Component: Designator=F1(fuse_holder_3A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1.5A Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=F2(fuse_holder_3A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "2A Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L_1.18A_4532)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.6 uH 1.18A"; VariantName = "[No Variations]"
+Added Component: Designator=P1(XT-60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(XT-60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(XT-60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(XT-60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P5(PIN_HEADER_M_1x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P6(XT-60)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P7(PIN_HEADER_M_1x2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(R-78C12-1.0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(OKI-78SR-5/1.5-W36HE-C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=P5-1
+Added Pin To Net: NetName=+5V Pin=P7-1
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=F2-2
+Added Pin To Net: NetName=+12V Pin=F2-2
+Added Pin To Net: NetName=+12V Pin=P4-1
+Added Pin To Net: NetName=+12V Pin=P6-1
+Added Pin To Net: NetName=+12V Pin=U1-3
+Added Net: Name=+12V
+Added Pin To Net: NetName=+36V Pin=F1-2
+Added Pin To Net: NetName=+36V Pin=F1-2
+Added Pin To Net: NetName=+36V Pin=P1-1
+Added Pin To Net: NetName=+36V Pin=P2-1
+Added Pin To Net: NetName=+36V Pin=P3-1
+Added Net: Name=+36V
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=F1-1
+Added Pin To Net: NetName=NetC1_1 Pin=F1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=Vin12V Pin=C6-1
+Added Pin To Net: NetName=Vin12V Pin=C7-1
+Added Pin To Net: NetName=Vin12V Pin=F2-1
+Added Pin To Net: NetName=Vin12V Pin=F2-1
+Added Pin To Net: NetName=Vin12V Pin=U2-1
+Added Net: Name=Vin12V
+Added Pin To Net: NetName=Vin36V Pin=C2-1
+Added Pin To Net: NetName=Vin36V Pin=L1-2
+Added Pin To Net: NetName=Vin36V Pin=U1-1
+Added Net: Name=Vin36V
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C1 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C2 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C3 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C4 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C5 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C6 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component C7 SMD
+Added Member To Class: ClassName=TB Power supply pcb Member=Component D1 D_ZENER_smd_13V
+Added Member To Class: ClassName=TB Power supply pcb Member=Component F1 Fuse-holder-3A
+Added Member To Class: ClassName=TB Power supply pcb Member=Component F2 Fuse-holder-3A
+Added Member To Class: ClassName=TB Power supply pcb Member=Component L1 L_1.18A_4532
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P1 XT-60
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P2 XT-60
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P3 XT-60
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P4 XT-60
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P5 M_1x2
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P6 XT-60
+Added Member To Class: ClassName=TB Power supply pcb Member=Component P7 M_1x2
+Added Member To Class: ClassName=TB Power supply pcb Member=Component U1 R-78C12-1.0
+Added Member To Class: ClassName=TB Power supply pcb Member=Component U2 OKI-78SR-5/1.5-W36HE-C

@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\alro2\OneDrive\Documents\Altium\Ny mappe\Test_Bench_2020\TB Power supply pcb\TB Power supply pcb.PcbDoc
+Date     : 16.02.2020
+Time     : 22:23:25
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=4mm) (Preferred=0.4mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.5mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Pad D1-K(36.1mm,24.9mm) on Top Layer And Track (35.2mm,24mm)(37mm,24mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.25mm]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.198mm < 0.254mm) Between Text "L1" (35mm,15mm) on Top Overlay And Track (30.225mm,14.575mm)(37.225mm,14.575mm) on Top Overlay Silk Text to Silk Clearance [0.198mm]
+   Violation between Silk To Silk Clearance Constraint: (0.24mm < 0.254mm) Between Text "L1" (35mm,15mm) on Top Overlay And Track (37.225mm,10.025mm)(37.225mm,14.575mm) on Top Overlay Silk Text to Silk Clearance [0.24mm]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room TB Power supply pcb (Bounding Region = (118mm, 44.125mm, 189.425mm, 106.1mm) (InComponentClass('TB Power supply pcb'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 3
+Waived Violations : 0
+Time Elapsed        : 00:00:01

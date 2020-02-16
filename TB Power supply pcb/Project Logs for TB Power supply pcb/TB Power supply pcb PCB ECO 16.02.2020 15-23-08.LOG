@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D1-A
+Removed Pin From Net: NetName=+12V Pin=D1-K
+Change Component Footprint: Designator=P5 Old Footprint=PIN_HEADER_M_1x2 New Footprint=JST_SE_2PIN
+Change Component Footprint: Designator=P7 Old Footprint=PIN_HEADER_M_1x2 New Footprint=JST_SE_2PIN
+Change Component Comment : Designator=P5 Old Comment=M_1x2 New Comment=JST_SE_2PIN
+Change Component Comment : Designator=P7 Old Comment=M_1x2 New Comment=JST_SE_2PIN

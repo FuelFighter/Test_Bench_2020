@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=+5V Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=+3.3V_1 Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=+3.3V_1 Pin=P3-3
+Removed Pin From Net: NetName=NetR1_2 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=NetP4_8 Pin=U1-2
+Removed Pin From Net: NetName=NetP4_7 Pin=U1-3
+Removed Pin From Net: NetName=NetP4_6 Pin=U1-4
+Removed Pin From Net: NetName=NetP4_5 Pin=U1-5
+Removed Pin From Net: NetName=NetP4_4 Pin=U1-6
+Removed Pin From Net: NetName=NetP4_3 Pin=U1-7
+Removed Pin From Net: NetName=NetP4_2 Pin=U1-14
+Removed Pin From Net: NetName=NetP4_1 Pin=U1-15
+Change Component Footprint: Designator=P1 Old Footprint=PIN_HEADER_M_1x2 New Footprint=JST_SE_3PIN
+Change Component Footprint: Designator=P2 Old Footprint=PIN_HEADER_M_1x3 New Footprint=JST_SE_2PIN
+Change Component Footprint: Designator=P3 Old Footprint=PIN_HEADER_M_1x3 New Footprint=JST_SE_3PIN
+Change Component Footprint: Designator=P8 Old Footprint=PIN_HEADER_M_1x3 New Footprint=JST_SE_3PIN
+Change Component Footprint: Designator=P9 Old Footprint=PIN_HEADER_M_1x3 New Footprint=JST_SE_3PIN
+Change Component Footprint: Designator=P13 Old Footprint=PIN_HEADER_M_1x3 New Footprint=JST_SE_3PIN
+Change Component Footprint: Designator=P12 Old Footprint=PIN_HEADER_M_1x5 New Footprint=JST_SE_5PIN
+Change Component Footprint: Designator=P4 Old Footprint=PIN_HEADER_M_1X8 New Footprint=JST_SE_8PIN
+Change Component Footprint: Designator=P5 Old Footprint=PIN_HEADER_M_1X8 New Footprint=JST_SE_8PIN
+Change Component Footprint: Designator=P7 Old Footprint=PIN_HEADER_M_1X8 New Footprint=JST_SE_8PIN
+Change Component Comment : Designator=P2 Old Comment=1x3_M New Comment=JST_SE_2PIN
+Change Component Comment : Designator=P3 Old Comment=1x3_M New Comment=JST_SE_3PIN
+Change Component Comment : Designator=P8 Old Comment=1x3_M New Comment=JST_SE_3PIN
+Change Component Comment : Designator=P9 Old Comment=1x3_M New Comment=JST_SE_3PIN
+Change Component Comment : Designator=P13 Old Comment=1x3_M New Comment=JST_SE_3PIN
+Change Component Comment : Designator=P12 Old Comment=1x5_M New Comment=JST_SE_5PIN
+Change Component Comment : Designator=P1 Old Comment=M_1x2 New Comment=JST_SE_3PIN
+Change Component Comment : Designator=P4 Old Comment=M_1x10 New Comment=JST_SE_8PIN
+Change Component Comment : Designator=P5 Old Comment=M_1x10 New Comment=JST_SE_8PIN
+Change Component Comment : Designator=P7 Old Comment=M_1x10 New Comment=JST_SE_8PIN
+Added Pin To Net: NetName=+3.3V_1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=+5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=+3.3V_1 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetP4_1 Pin=U1-2
+Added Pin To Net: NetName=NetP4_2 Pin=U1-3
+Added Pin To Net: NetName=NetP4_3 Pin=U1-4
+Added Pin To Net: NetName=NetP4_4 Pin=U1-5
+Added Pin To Net: NetName=NetP4_5 Pin=U1-6
+Added Pin To Net: NetName=NetP4_6 Pin=U1-7
+Added Pin To Net: NetName=NetP4_7 Pin=U1-14
+Added Pin To Net: NetName=NetP4_8 Pin=U1-15
+Added Pin To Net: NetName=+3.3V_2 Pin=U1-+3V3
+Added Pin To Net: NetName=+3.3V_2 Pin=U1-+3V3
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U1-31
+Added Net: Name=NetP1_2
