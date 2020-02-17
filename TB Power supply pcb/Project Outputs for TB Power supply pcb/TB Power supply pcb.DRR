@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TB Power supply pcb.PcbDoc   17.02.2020  20:45:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TB Power supply pcb.TXT
+ASCII RectHoles File : TB Power supply pcb-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             67        PTH        0.00inch (0.00mm)
+T2      30mil (0.75mm)                                            Rectangle         12        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             7         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             3         PTH        0.00inch (0.00mm)
+T5      157mil (4mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T6      177mil (4.5mm)          +/-4mil (0.1mm)                   Round             10        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              103
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TB Teensy pcb.PrjPcb]
+   Generated File[TB Teensy pcb.TXT]
+   Generated File[TB Teensy pcb.LDP]
+   Generated File[TB Teensy pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:07:21 On 17.02.2020

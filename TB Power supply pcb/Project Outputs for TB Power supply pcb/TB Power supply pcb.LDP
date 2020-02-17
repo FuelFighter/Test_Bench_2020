@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\BOB\Documents\FF_Test_Bench_2020\TB Power supply pcb\TB Power supply pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tb power supply pcb.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=tb power supply pcb-rectholes.txt|DrillLayers=gtl,gbl

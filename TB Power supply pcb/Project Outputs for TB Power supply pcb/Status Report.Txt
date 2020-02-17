@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TB Power supply pcb.PrjPcb]
+   Generated File[TB Power supply pcb.TXT]
+   Generated File[TB Power supply pcb-RectHoles.TXT]
+   Generated File[TB Power supply pcb.LDP]
+   Generated File[TB Power supply pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:45:17 On 17.02.2020
