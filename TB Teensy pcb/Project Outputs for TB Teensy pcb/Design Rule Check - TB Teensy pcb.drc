@@ -1,15 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\alro2\OneDrive\Documents\Altium\Ny mappe\Test_Bench_2020\TB Teensy pcb\TB Teensy pcb.PcbDoc
-Date     : 16.02.2020
-Time     : 22:26:03
+Date     : 17.02.2020
+Time     : 20:02:16
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
-   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad U1-+3V3(30.675mm,63.435mm) on Multi-Layer And Track (25.565mm,63.435mm)(30.675mm,63.435mm) on Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad U1-+3V3(30.675mm,63.435mm) on Multi-Layer And Track (25.565mm,63.435mm)(30.675mm,63.435mm) on Bottom Layer Location : [X = 164.075mm][Y = 88.835mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -39,8 +37,7 @@ Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (25.565mm,63.435mm)(30.675mm,63.435mm) on Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Room TB Teensy pcb (Bounding Region = (126.075mm, 15.1mm, 185.375mm, 130.1mm) (InComponentClass('TB Teensy pcb'))
 Rule Violations :0
@@ -49,6 +46,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01

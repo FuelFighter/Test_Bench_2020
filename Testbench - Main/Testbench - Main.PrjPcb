@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HJROGCEN
 
 [Document3]
-DocumentPath=..\..\Fuel_Fighter_Altium\FF_component_lib.SchLib
+DocumentPath=..\..\Altium_lib_2020\FF_component_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\Fuel_Fighter_Altium\FF_pcb_lib.PcbLib
+DocumentPath=..\..\Altium_lib_2020\FF_pcb_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -300,7 +300,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HPFuelFighter (HP ENVY 4520 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

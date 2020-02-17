@@ -1,29 +1,21 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Magnus\Documents\Fuel_Fighter_Test_Bench_2020\Testbench - Main\TB Motor driver pcb.PcbDoc
+PCB File : C:\Users\alro2\OneDrive\Documents\Altium\Ny mappe\Test_Bench_2020\Testbench - Main\TB Motor driver pcb.PcbDoc
 Date     : 17.02.2020
-Time     : 15:08:21
+Time     : 19:41:56
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
-   Violation between Clearance Constraint: (0.203mm < 0.203mm) Between Pad C8-2(44.654mm,53.546mm) on Top Layer And Track (43.425mm,53.272mm)(43.425mm,53.573mm) on Top Layer 
-   Violation between Clearance Constraint: (0.203mm < 0.203mm) Between Pad C8-2(44.654mm,53.546mm) on Top Layer And Track (43.425mm,53.573mm)(44.9mm,55.048mm) on Top Layer 
-   Violation between Clearance Constraint: (0.203mm < 0.203mm) Between Pad U1-19(40.8mm,39.655mm) on Top Layer And Track (41.66mm,40.29mm)(44.554mm,37.396mm) on Top Layer 
-   Violation between Clearance Constraint: (0.203mm < 0.203mm) Between Pad U1-36(40.8mm,50.45mm) on Top Layer And Track (41.66mm,49.815mm)(44.53mm,52.685mm) on Top Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-23(40.8mm,42.195mm) on Top Layer And Pad U1-24(40.8mm,42.83mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-23(40.8mm,42.195mm) on Top Layer And Via (44.05mm,42.475mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-31(40.8mm,47.275mm) on Top Layer And Pad U1-32(40.8mm,47.91mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-31(40.8mm,47.275mm) on Top Layer And Via (44.05mm,47.575mm) from Top Layer to Bottom Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.1mm) (Max=4mm) (Preferred=0.254mm) (All)
+Processing Rule : Width Constraint (Min=0.203mm) (Max=4mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.4mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -91,6 +83,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 42
+Violations Detected : 34
 Waived Violations : 0
 Time Elapsed        : 00:00:00

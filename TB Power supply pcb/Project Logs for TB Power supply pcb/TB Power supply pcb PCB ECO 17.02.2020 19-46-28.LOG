@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5V Pin=P5-2
+Removed Pin From Net: NetName=+5V Pin=P7-1
+Added Component: Designator=F3(fuse_holder_3A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_111_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=F3-2
+Added Pin To Net: NetName=+5V Pin=F3-2
+Change Net Name : Old Net Name=+5V New Net Name=NetC4_1
+Added Pin To Net: NetName=+5V Pin=F3-1
+Added Pin To Net: NetName=+5V Pin=F3-1
+Added Pin To Net: NetName=+5V Pin=P5-2
+Added Pin To Net: NetName=+5V Pin=P7-1
+Added Net: Name=+5V
+Added Member To Class: ClassName=TB Power supply pcb Member=Component F3 Fuse-holder-3A
